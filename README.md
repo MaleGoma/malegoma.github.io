@@ -26,10 +26,10 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### Herramientas y tipo de proyecto
 
-![Python](https://img.shields.io/badge/python-295F98?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23295F98.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23295F98.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-2A6495?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%232A6495.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2A6495?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%232A6495.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
 ![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
