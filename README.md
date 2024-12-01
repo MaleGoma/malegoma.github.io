@@ -22,7 +22,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 # Proyectos seleccionados
 
-## [Análisis de retención de clientes para gimansio](www.google.com)
+## [Análisis de retención de clientes para gimansio](https://github.com/male_goma)
 
 ### Herramientas y tipo de proyecto
 
