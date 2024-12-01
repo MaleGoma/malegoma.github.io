@@ -46,11 +46,12 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 - **Modelado predictivo:** Se entrenaron modelos de regresión logística y bosque aleatorio para predecir la cancelación de clientes con un precisión del 85% y 84%, respectivamente.
 - **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares.
 
-### Preguntas a resolver
+### Preguntas clave
 
-Este proyecto responde a tres preguntas clave:
 1. ¿Qué factores demográficos o de comportamiento influyen más en la cancelación?
+
 2. ¿Qué características diferencian a los clientes leales de los que abandonan?
+
 3. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
 ### Conclusiones y recomendaciones
@@ -58,6 +59,7 @@ Este proyecto responde a tres preguntas clave:
 #### Factores críticos de retención:
 - La proximidad al gimnasio, contratos más largos, la participación en sesiones grupales y mayor frecuencia de visitas están fuertemente asociados con una menor tasa de cancelación.
 - Clientes jóvenes, con contratos cortos y baja frecuencia de visitas, tienen mayores tasas de cancelación.
+
 #### Estrategias recomendadas:
 - **Extender contratos cortos:** Ofrecer incentivos para ampliar contratos de 1 mes.
 - **Promover actividades grupales:** Diseñar campañas que destaquen los beneficios de participar en sesiones grupales.
@@ -66,7 +68,7 @@ Este proyecto responde a tres preguntas clave:
 
 ### Visualizaciones destacadas
 1. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 6 meses, mientras que los que cancelan en su minoría contratan en dichos periodos.
-2. **Matriz de correlaciones:** Se encontró que Las características 'month_to_end_contract' y 'contract_period' están altamente correlacionadas (0.9), lo que sugiere que se debe tener cuidado con la multicolinealidad al desarrollar modelos predictivos.
+2. **Matriz de correlaciones:** Se encontró que Las características `month_to_end_contract´ y `contract_period´ están altamente correlacionadas (0.9), lo que sugiere que se debe tener cuidado con la multicolinealidad al desarrollar modelos predictivos.
 3. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
 
 ## Análisis de ventas de videojuegos
