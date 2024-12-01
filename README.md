@@ -22,6 +22,38 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 # Proyectos seleccionados
 
+<div class="project-container">
+  <!-- Proyecto 1 -->
+  <div class="project">
+    <img src="ruta-a-tu-imagen-proyecto1.jpg" alt="Proyecto 1" class="project-image">
+    <h3>Proyecto 1</h3>
+    <div class="badges">
+      <span class="badge">HTML</span>
+      <span class="badge">CSS</span>
+      <span class="badge">JavaScript</span>
+    </div>
+    <button class="toggle-button" onclick="toggleDetails('details1')">Ver más</button>
+    <div class="project-details" id="details1">
+      <p>Este es un proyecto en el que desarrollé una aplicación web para gestionar tareas. Implementé una interfaz moderna usando React y una API backend con Node.js.</p>
+    </div>
+  </div>
+
+  <!-- Proyecto 2 -->
+  <div class="project">
+    <img src="ruta-a-tu-imagen-proyecto2.jpg" alt="Proyecto 2" class="project-image">
+    <h3>Proyecto 2</h3>
+    <div class="badges">
+      <span class="badge">Python</span>
+      <span class="badge">Django</span>
+      <span class="badge">PostgreSQL</span>
+    </div>
+    <button class="toggle-button" onclick="toggleDetails('details2')">Ver más</button>
+    <div class="project-details" id="details2">
+      <p>En este proyecto desarrollé una plataforma para comercio electrónico, integrando pasarelas de pago y un sistema de gestión de inventarios.</p>
+    </div>
+  </div>
+</div>
+
 ## [Análisis de retención de clientes para gimnasio](https://github.com/malegoma)
 
 ### Herramientas y tipo de proyecto
