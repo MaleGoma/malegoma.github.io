@@ -37,19 +37,21 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### Descripción del proyecto
 
-Descripción de la meta del proyecto. 
-
-### Objetivos
-
-Indicar las preguntas a resolver con el proyecto.
+En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente. Dado que retener a un cliente existente puede ser hasta cinco veces más rentable que adquirir uno nuevo, este análisis busca empoderar al gimnasio con insights accionables para mejorar la lealtad del cliente y optimizar sus recursos.
 
 ### Metodología
 
-Mencionar brevemente el proceso que se siguió para realizar el proyecto.
+- **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
+- **Explorartory Data Analysis (EDA):** Se analizaron características demográficas y de uso, identificando patrones en clientes que permanecen y los que cancelan.
+- **Modelado predictivo:** Se entrenaron modelos de regresión logística y bosque aleatorio para predecir la cancelación de clientes.
+- **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares.
 
-### Key findings
+### Preguntas a resolver
 
-Agregar con visualizaciones lo que se descubrió en el proyecto
+Este proyecto responde a tres preguntas clave:
+1. ¿Qué factores demográficos o de comportamiento influyen más en la cancelación?
+2. ¿Qué características diferencian a los clientes leales de los que abandonan?
+3. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
 ### Conclusiones y recomendaciones
 
