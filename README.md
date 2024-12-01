@@ -54,7 +54,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
   </div>
 </div>
 
-## [Análisis de retención de clientes para gimnasio](https://github.com/malegoma)
+## Análisis de retención de clientes para gimnasio
 
 ### Herramientas y tipo de proyecto
 
