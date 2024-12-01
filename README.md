@@ -8,7 +8,7 @@ Genero insights accionables que optimizan procesos y apoyan la toma de decisione
 - Análisis y gestión de datos utilizando **Excel / SQL / Python / R**
 - Visualización de datos y narración de historias usando **Tableau**
 
-## Habiidades blandas
+## Habilidades blandas
 Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
 
 <!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
