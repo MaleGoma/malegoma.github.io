@@ -4,8 +4,12 @@ Economista y financiera certificada en análisis de datos con sólida experienci
 
 Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, logrando ahorros significativos de tiempo mediante la automatización.
 
-Comprometida con transformar datos en
-soluciones prácticas que impulsan resultados medibles.
+## Habilidades tecnologicas
+- Análisis y gestión de datos utilizando **Excel / SQL / Python / R**
+- Visualización de datos y narración de historias usando **Tableau**
+
+## Habiidades blandas
+Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
 
 <!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
 <a href="https://www.linkedin.com/in/marielalegoma/" target="_blank">
