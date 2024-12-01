@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: assets/img/logo.jpg
-description: Minimal is a theme for GitHub Pages.
+title: Portafolio
+logo: assets/img/logo.png
+description: Te doy la bienvenida a mi portafolio de proyectos de Análisis de datos.
 show_downloads: false
 #google_analytics:
 theme: jekyll-theme-minimal
