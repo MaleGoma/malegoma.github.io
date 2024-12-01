@@ -24,8 +24,6 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ## Análisis de retención de clientes para gimnasio
 
-### Descripción del proyecto
-
 En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente.
 
 #### Herramientas y tipo de proyecto
@@ -68,8 +66,11 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 
 ### Visualizaciones destacadas
 1. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 6 meses, mientras que los que cancelan en su minoría contratan en dichos periodos.
+![Contract Period Histogram](/assets/img/p01_contract_period_histogram.png)
 2. **Matriz de correlaciones:** Se encontró que Las características `month_to_end_contract` y `contract_period` están altamente correlacionadas (0.9), lo que sugiere que se debe tener cuidado con la multicolinealidad al desarrollar modelos predictivos.
+![Corr Matrix Churn Data](/assets/img/p01_gym_churn_corr.png)
 3. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
+![Dendrogram](/assets/img/p01_dendrogram.png)
 
 ## Análisis de ventas de videojuegos
 
