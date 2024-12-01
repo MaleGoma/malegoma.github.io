@@ -26,15 +26,12 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### Herramientas y tipo de proyecto
 
-Colocar badges de herramientas y tipo de proyecto
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Limpieza-de-datos](https://img.shields.io/badge/limpieza-de-datos-%23F7931E.svg?style=for-the-badge)
-![Mi Badge](https://img.shields.io/badge/Aprendizaje_Constante-0078D4?style=for-the-badge)
-
-
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-0078D4?style=for-the-badge)
+![Limpieza de datos](https://img.shields.io/badge/Aprendizaje_Constante-295F98?style=for-the-badge)
 
 ### Descripción del proyecto
 
