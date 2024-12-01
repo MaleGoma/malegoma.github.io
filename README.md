@@ -37,7 +37,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### Descripción del proyecto
 
-En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente. Por lo que este análisis busca empoderar al gimnasio con insights accionables para mejorar la lealtad del cliente y optimizar sus recursos.
+En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente.
 
 ### Metodología
 
@@ -55,7 +55,14 @@ Este proyecto responde a tres preguntas clave:
 
 ### Conclusiones y recomendaciones
 
-Comentar brevemente las conclusiones y recomendaciones para la empresa
+#### Factores críticos de retención:
+- La proximidad al gimnasio, contratos más largos, la participación en sesiones grupales y mayor frecuencia de visitas están fuertemente asociados con una menor tasa de cancelación.
+- Clientes jóvenes, con contratos cortos y baja frecuencia de visitas, tienen mayores tasas de cancelación.
+#### Estrategias recomendadas:
+- Extender contratos cortos: Ofrecer incentivos para ampliar contratos de 1 mes.
+- Promover actividades grupales: Diseñar campañas que destaquen los beneficios de participar en sesiones grupales.
+- Campañas personalizadas: Utilizar el modelo predictivo para identificar clientes en riesgo y ofrecer promociones específicas.
+- Segmentación proactiva: Clasificar clientes nuevos por edad y duración de contrato para diseñar estrategias de retención desde el inicio.
 
 ## Análisis de ventas de videojuegos
 
