@@ -106,7 +106,7 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 
 #### Estretegias recomendadas
 - Dado que PS4 y Xbox One se mantienen relevantes en ventas globales, recomendamos enfocar campañas publicitarias en estas plataformas.
-- Dado las preferencias de usuarios en esta región, recomendamos enfocar promociones de RPG en Japón e impulsar títulos de acción y disparos en mercados occidentales.
+- Debido a las preferencias de usuarios en esta región, recomendamos enfocar promociones de RPG en Japón e impulsar títulos de acción y disparos en mercados occidentales.
 
 ### Visualizaciones destacadas
 1. **Distribución de ventas por género:** Gráfico de barras que muestra la popularidad relativa de los géneros en cada región.
