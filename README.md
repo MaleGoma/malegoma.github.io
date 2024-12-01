@@ -37,7 +37,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### Descripción del proyecto
 
-En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente. Dado que retener a un cliente existente puede ser hasta cinco veces más rentable que adquirir uno nuevo, este análisis busca empoderar al gimnasio con insights accionables para mejorar la lealtad del cliente y optimizar sus recursos.
+En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente. Por lo que este análisis busca empoderar al gimnasio con insights accionables para mejorar la lealtad del cliente y optimizar sus recursos.
 
 ### Metodología
 
