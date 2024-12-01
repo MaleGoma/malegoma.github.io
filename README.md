@@ -22,7 +22,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 # Proyectos seleccionados
 
-## [Análisis de retención de clientes para gimansio](https://github.com/male_goma)
+## [Análisis de retención de clientes para gimnasio](https://github.com/malegoma)
 
 ### Herramientas y tipo de proyecto
 
