@@ -23,11 +23,9 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 # Proyectos seleccionados
 
 ## Análisis de retención de clientes para gimnasio
-
-En todas las industrias, la retención de clientes es fundamental para garantizar ingresos sostenibles y reducir los costos asociados con la adquisición de nuevos clientes. Identificar los factores clave que influyen en la retención y cancelación permite, en este caso, al gimnasio Model Fitness anticiparse a los riesgos de abandono, diseñar estrategias de fidelización efectivas y personalizar las experiencias para cada cliente.
+En todas las industrias, la retención de clientes es fundamental para garantizar **ingresos sostenibles** y **reducir los costos asociados con la adquisición de nuevos clientes**. Identificar los factores clave que influyen en la retención y cancelación permite al gimnasio Model Fitness anticiparse a los riesgos de abandono, **diseñar estrategias de fidelización efectivas** y **personalizar las experiencias para cada cliente**.
 
 #### Herramientas y tipo de proyecto
-
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
@@ -38,18 +36,14 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 ![Modelos de predicción](https://img.shields.io/badge/Modelos_de_predicción-295F98?style=for-the-badge)
 
 ### Metodología
-
 - **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
 - **Explorartory Data Analysis (EDA):** Se analizaron características demográficas y de uso, identificando patrones en clientes que permanecen y los que cancelan.
 - **Modelado predictivo:** Se entrenaron modelos de regresión logística y bosque aleatorio para predecir la cancelación de clientes con un precisión del 85% y 84%, respectivamente.
 - **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares.
 
 ### Preguntas clave
-
 1. ¿Qué factores demográficos o de comportamiento influyen más en la cancelación?
-
 2. ¿Qué características diferencian a los clientes leales de los que abandonan?
-
 3. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
 ### Conclusiones y recomendaciones
@@ -71,6 +65,8 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 ![Corr Matrix Churn Data](/assets/img/p01_gym_churn_corr.png)
 3. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
 ![Dendrogram](/assets/img/p01_dendrogram.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
 
 ## Análisis de ventas de videojuegos
 
