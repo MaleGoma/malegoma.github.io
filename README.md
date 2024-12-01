@@ -32,6 +32,10 @@ Colocar badges de herramientas y tipo de proyecto
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Limpieza-de-datos](https://img.shields.io/badge/limpieza-de-datos-%23F7931E.svg?style=for-the-badge)
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Limpieza-de-datos-3776AB?style=for-the-badge" alt="limpieza-de-datos"/>
+  </a>
+</div>
 
 ### Descripción del proyecto
 
