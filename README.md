@@ -104,14 +104,21 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 - Las puntuaciones de críticos tienen una correlación moderada positiva con las ventas (coeficiente ≈ 0.41).
 - Las puntuaciones de usuarios presentan correlación casi nula, lo que sugiere que los consumidores priorizan otras métricas al elegir juegos.
 
+#### Pruebas de hipótesis:
+- Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son iguales.
+- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+
 #### Estretegias recomendadas
 - Dado que PS4 y Xbox One se mantienen relevantes en ventas globales, recomendamos enfocar campañas publicitarias en estas plataformas.
 - Debido a las preferencias de usuarios en esta región, recomendamos enfocar promociones de RPG en Japón e impulsar títulos de acción y disparos en mercados occidentales.
 
 ### Visualizaciones destacadas
-1. **Distribución de ventas por género:** Gráfico de barras que muestra la popularidad relativa de los géneros en cada región.
-2. **Comparación de reseñas y ventas:** Diagramas de dispersión para críticos y usuarios, destacando patrones de correlación
-3. **Ventas por plataforma:** Diagramas de caja que ilustran las diferencias en ventas globales entre plataformas clave.
+1. **Distribución de ventas por género:** Los géneros con mayores ventas son aquellos que pertenecen al género de acción, disparos, juegos de rol y deportes. Mientras que los géneros con menores ventas son los de rompecabezas y estrategia.
+![Genre Bar Chart](/assets/img/p02_genre_bar_chart.png)
+2. **Comparación de reseñas y ventas:** Hay una correlación positiva mediana entre la puntuación de los críticos y las ventas de videojuegos. Esto podría significar que los usuarios toman en cuenta parcialmente las puntuaciones de los críticos para comprar o no un videojuego.
+![Score Scatter Plot](/assets/img/p02_score_scatter_plot.png)
+3. **Ventas por plataforma:** El promedio de las ventas difiere en gran cantidad de la mediana de los datos debido a la dispersión de los datos. Por lo mismo, se considera que una mejor medida de tendencia central será la mediana.
+![Sales Box Plot](/assets/img/p02_sales_box_plot.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/video-game-sales-analysis).**
 
