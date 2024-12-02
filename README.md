@@ -108,7 +108,7 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 - Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son iguales.
 - Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 
-#### Estretegias recomendadas
+#### Estretegias recomendadas:
 - Dado que PS4 y Xbox One se mantienen relevantes en ventas globales, recomendamos enfocar campañas publicitarias en estas plataformas.
 - Debido a las preferencias de usuarios en esta región, recomendamos enfocar promociones de RPG en Japón e impulsar títulos de acción y disparos en mercados occidentales.
 
