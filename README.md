@@ -35,16 +35,16 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
 ![Modelos de predicción](https://img.shields.io/badge/Modelos_de_predicción-295F98?style=for-the-badge)
 
+### Preguntas clave
+1. ¿Qué factores demográficos o de comportamiento influyen más en la cancelación?
+2. ¿Qué características diferencian a los clientes leales de los que abandonan?
+3. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
+
 ### Metodología
 - **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
 - **Explorartory Data Analysis (EDA):** Se analizaron características demográficas y de uso, identificando patrones en clientes que permanecen y los que cancelan.
 - **Modelado predictivo:** Se entrenaron modelos de regresión logística y bosque aleatorio para predecir la cancelación de clientes con un precisión del 85% y 84%, respectivamente.
 - **Clustering:** Se segmentaron los clientes en grupos utilizando K-means para identificar comportamientos similares.
-
-### Preguntas clave
-1. ¿Qué factores demográficos o de comportamiento influyen más en la cancelación?
-2. ¿Qué características diferencian a los clientes leales de los que abandonan?
-3. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
 ### Conclusiones y recomendaciones
 
@@ -83,17 +83,17 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 ![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
 
-### Metodología
-- **Preprocesamiento de datos:** Limpieza de datos (valores ausentes, duplicados, formatos de columnas, y tipos de datos adecuados).
-- **Análisis exploratorio de datos:** Identificación de las plataformas y géneros más populares y evaluación de la correlación entre puntuaciones de usuarios/críticos y ventas.
-- **Segmentación regional:** Comparación de preferencias por plataformas y géneros en Norteamérica, Europa y Japón.
-- **Pruebas de hipótesis:** Comparación de calificaciones promedio entre plataformas y géneros.
-
 ### Preguntas clave
 1. ¿Cuáles son las plataformas con mayores ventas globales y cómo varían estas por región?
 2. ¿Qué géneros de videojuegos son más populares en Norteamérica, Europa y Japón?
 3. ¿Qué relación existe entre las puntuaciones de usuarios/críticos y las ventas globales de videojuegos?
 4. ¿Existen diferencias significativas en las calificaciones promedio entre plataformas y géneros?
+
+### Metodología
+- **Preprocesamiento de datos:** Limpieza de datos (valores ausentes, duplicados, formatos de columnas, y tipos de datos adecuados).
+- **Análisis exploratorio de datos:** Identificación de las plataformas y géneros más populares y evaluación de la correlación entre puntuaciones de usuarios/críticos y ventas.
+- **Segmentación regional:** Comparación de preferencias por plataformas y géneros en Norteamérica, Europa y Japón.
+- **Pruebas de hipótesis:** Comparación de calificaciones promedio entre plataformas y géneros.
 
 ### Conclusiones y recomendaciones
 #### Dinámica de ventas por región:
@@ -123,6 +123,7 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/video-game-sales-analysis).**
 
 ## Análisis de comportamiento de usuarios y embudo de ventas
+Este proyecto analiza el embudo de ventas de la aplicación de una empresa de alimentos para **identificar las etapas con mayores pérdidas de usuarios** y evalúa, mediante un experimento A/A/B, si un nuevo diseño de fuentes puede **mejorar la conversión** en comparación con el diseño actual. El objetivo es proporcionar **insights basados en datos** que guíen **decisiones estratégicas sobre diseño y funcionalidad**.
 
 #### Herramientas y tipo de proyecto
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
@@ -136,12 +137,32 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 ![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
 
-### Metodología
-
 ### Preguntas clave
+1. ¿Qué eventos del embudo de ventas tienen mayores tasas de abandono?
+2. ¿Qué porcentaje de usuarios completa el embudo de ventas desde el inicio hasta el pago?
+3. ¿El cambio en el diseño de las fuentes afecta significativamente la conversión?
+4. ¿Hay diferencias estadísticas entre los grupos de control y el grupo de prueba?
+
+### Metodología
+- **Preprocesamiento de datos:** Se ajustaron los nombres de las columnas, se eliminaron duplicados y se filtraron registros incompletos.
+- **Análisis del embudo de ventas:** Se identificaron eventos clave y la proporción de usuarios que avanzan entre etapas.
+- **Experimentación A/A/B:** Se compararon conversiones entre grupos de control y prueba mediante pruebas de hipótesis estadísticas.
 
 ### Conclusiones y recomendaciones
+#### Embudo de ventas:
+- El evento OffersScreenAppear es donde más usuarios abandonan (61.9%).
+- Solo el 47.7% de los usuarios completa el embudo de ventas hasta el pago exitoso.
+#### Resultados del experimento:
+- No se encontraron diferencias estadísticas significativas entre los grupos de control y el grupo de prueba.
+- Las nuevas fuentes no generan un impacto positivo en la conversión, por lo que no se recomienda implementar este cambio.
+#### Recomendaciones:
+- Optimizar la pantalla de ofertas para retener más usuarios en esa etapa.
+- Priorizar otros cambios en el diseño o funcionalidad de la aplicación con mayor potencial de impacto.
 
 ### Visualizaciones destacadas
+1. **Embudo de ventas:** La etapa en la que más se pierden usuarios es en el Tutorial, donde solo el 23.7% de los usuarios en la etapa anterior llegan a esta. La siguiente etapa donde se pierden más usuarios es en OfferScreenAppear, donde el 61.9% de los usuarios de la etapa anterior pasan a esta.
+![Sales Funner Chart](/assets/img/p03_sales_funnel_chart.png)
+2. **Periodo de tiempo de los datos:** Los datos completos están disponibles a partir del 1 de agosto de 2019, por lo que se descartaron fechas anteriores. El periodo actualizado abarca del 1 al 7 de agosto de 2019.
+![Time Period Data](/assets/img/p03_time_period_data.png)
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/sales-funnel-analysis).**
