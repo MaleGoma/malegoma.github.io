@@ -96,6 +96,7 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 - **Pruebas de hipótesis:** Comparación de calificaciones promedio entre plataformas y géneros.
 
 ### Conclusiones y recomendaciones
+
 #### Dinámica de ventas por región:
 - Norteamérica y Europa prefieren juegos de acción y disparos en consolas como Xbox y PlayStation.
 - Japón, en cambio, favorece juegos de rol en plataformas portátiles como Nintendo 3DS.
@@ -149,12 +150,15 @@ Este proyecto analiza el embudo de ventas de la aplicación de una empresa de al
 - **Experimentación A/A/B:** Se compararon conversiones entre grupos de control y prueba mediante pruebas de hipótesis estadísticas.
 
 ### Conclusiones y recomendaciones
+
 #### Embudo de ventas:
 - El evento OffersScreenAppear es donde más usuarios abandonan (61.9%).
 - Solo el 47.7% de los usuarios completa el embudo de ventas hasta el pago exitoso.
+
 #### Resultados del experimento:
 - No se encontraron diferencias estadísticas significativas entre los grupos de control y el grupo de prueba.
 - Las nuevas fuentes no generan un impacto positivo en la conversión, por lo que no se recomienda implementar este cambio.
+
 #### Recomendaciones:
 - Optimizar la pantalla de ofertas para retener más usuarios en esa etapa.
 - Priorizar otros cambios en el diseño o funcionalidad de la aplicación con mayor potencial de impacto.
