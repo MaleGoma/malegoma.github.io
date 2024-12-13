@@ -97,15 +97,9 @@ El objetivo de este proyecto es **optimizar los gastos de marketing** de Y.Afish
 
 ### Conclusiones y recomendaciones
 
-#### Comportamiento de usuarios:
-- La aplicación registra 907 usuarios activos diarios, 5,716 semanales y 23,228 mensuales.
+#### Comportamiento de usuarios, Ventas y Marketing:
 - El 16% de los usuarios regresa semanalmente, pero solo el 4% vuelve mensualmente, indicando una posible necesidad de campañas de retención.
-
-#### Ventas:
-- El tamaño promedio de compra es de $5, con algunos picos en diciembre debido a promociones estacionales.
-- La mayoría de los usuarios realiza un pedido por mes.
-
-#### Marketing:
+- El tamaño promedio de compra es de $5, con algunos picos en diciembre debido a promociones estacionales. La mayoría de los usuarios realiza un pedido por mes.
 - Las fuentes con mayor ROMI es 1, 5 y 9 pues, antes de que las cohortes cumplan el primer mes de edad, el ROMI casi alcanza el 1 en la mayoría de cohortes.
 - Destaca la fuente 1 donde, a pesar de ser la segunda fuente en la que menos se gasta, es 3era fuente que más usuarios atrae.
 
