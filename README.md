@@ -68,7 +68,7 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
 
-## Análisis de ventas de videojuegos
+## Optimización de gastos de marketing
 El objetivo de este proyecto es **optimizar los gastos de marketing** de Y.Afisha mediante el análisis de **datos de visitas, pedidos y costos publicitarios**. El estudio busca comprender el **comportamiento del usuario**, identificar **fuentes de adquisición rentables** y calcular métricas clave como el **Costo de Adquisición de Clientes (CAC)**, el **Valor de Vida del Cliente (LTV)** y el **Retorno de la Inversión en Marketing (ROMI)**.
 
 #### Herramientas y tipo de proyecto
@@ -76,11 +76,11 @@ El objetivo de este proyecto es **optimizar los gastos de marketing** de Y.Afish
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![SciPy](https://img.shields.io/badge/SciPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
 ![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
-![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+![Análisis de cohortes](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
 
 ### Preguntas clave
