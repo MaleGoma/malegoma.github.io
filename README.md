@@ -69,6 +69,108 @@ En todas las industrias, la retención de clientes es fundamental para garantiza
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/customer-retention-analysis).**
 
 ## Análisis de ventas de videojuegos
+El objetivo de este proyecto es **optimizar los gastos de marketing** de Y.Afisha mediante el análisis de **datos de visitas, pedidos y costos publicitarios**. El estudio busca comprender el **comportamiento del usuario**, identificar **fuentes de adquisición rentables** y calcular métricas clave como el **Costo de Adquisición de Clientes (CAC)**, el **Valor de Vida del Cliente (LTV)** y el **Retorno de la Inversión en Marketing (ROMI)**.
+
+#### Herramientas y tipo de proyecto
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23357ebd.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
+![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
+![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
+![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
+
+### Preguntas clave
+1. ¿Cuántos usuarios activos diarios, semanales y mensuales tiene la aplicación?
+2. ¿Cuáles son las principales fuentes de adquisición de clientes y su rentabilidad?
+3. ¿Qué métricas de ventas y conversiones se pueden mejorar?
+4. ¿Qué tan efectiva es cada fuente de marketing según su ROMI?
+
+### Metodología
+- **Preprocesamiento de datos:** Limpieza de datos (valores ausentes, duplicados, formatos de columnas, y tipos de datos adecuados).
+- **Análisis del comportamiento de usuarios** Cálculo de métricas como usuarios activos diarios (DAU), semanales (WAU) y mensuales (MAU), duración de sesiones y frecuencia de retorno.
+- **Análisis de ventas:** Evaluación del tamaño promedio de compra, pedidos por cliente y LTV.
+- **Pruebas de hipótesis:** Cálculo de CAC, ROMI y costos por fuente de adquisición.
+
+### Conclusiones y recomendaciones
+
+#### Comportamiento de usuarios:
+- La aplicación registra 907 usuarios activos diarios, 5,716 semanales y 23,228 mensuales.
+- El 16% de los usuarios regresa semanalmente, pero solo el 4% vuelve mensualmente, indicando una posible necesidad de campañas de retención.
+
+#### Ventas:
+- El tamaño promedio de compra es de $5, con algunos picos en diciembre debido a promociones estacionales.
+- La mayoría de los usuarios realiza un pedido por mes.
+
+#### Marketing:
+- Las fuentes con mayor ROMI es 1, 5 y 9 pues, antes de que las cohortes cumplan el primer mes de edad, el ROMI casi alcanza el 1 en la mayoría de cohortes.
+- Destaca la fuente 1 donde, a pesar de ser la segunda fuente en la que menos se gasta, es 3era fuente que más usuarios atrae.
+
+#### Recomendaciones:
+- Descontinuar las fuentes 7, 9 y 10 debido a su bajo rendimiento.
+- Reducir la inversión en la fuente 3, ya que no genera retornos significativos.
+- Invertir en la fuente 1, que sigue siendo una aliada clave con baja inversión y alto rendimiento.
+
+### Visualizaciones destacadas
+1. **Usuarios Activos Semanales (WAU):** Se observa una tendencia a la alza a partir de la semana 31 de 2017, con una caída drástica en la semana 53 del mismo año. Se observa una disminución en usuarios en la semana 13, 17 y 18 de 2019.
+![WAU Chart](/assets/img/p04_wau_chart.png)
+3. **LTV por cohorte:** Cada cliente de la primera cohorte representó un ingreso de $11.88. Además, la cohorte de septiembre de 2017 representó ingresos de $13.44 por cliente.
+![LTV Heat Chart](/assets/img/p04_ltv_heat_chart.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/marketing-spending-optimization).**
+
+## Análisis de comportamiento de usuarios y embudo de ventas
+Este proyecto analiza el embudo de ventas de la aplicación de una empresa de alimentos para **identificar las etapas con mayores pérdidas de usuarios** y evalúa, mediante un experimento A/A/B, si un nuevo diseño de fuentes puede **mejorar la conversión** en comparación con el diseño actual. El objetivo es proporcionar **insights basados en datos** que guíen **decisiones estratégicas sobre diseño y funcionalidad**.
+
+#### Herramientas y tipo de proyecto
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%23357ebd.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
+![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
+![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
+![Tests A/B](https://img.shields.io/badge/Tests_A/B-295F98?style=for-the-badge)
+![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
+
+### Preguntas clave
+1. ¿Qué eventos del embudo de ventas tienen mayores tasas de abandono?
+2. ¿Qué porcentaje de usuarios completa el embudo de ventas desde el inicio hasta el pago?
+3. ¿El cambio en el diseño de las fuentes afecta significativamente la conversión?
+4. ¿Hay diferencias estadísticas entre los grupos de control y el grupo de prueba?
+
+### Metodología
+- **Preprocesamiento de datos:** Se ajustaron los nombres de las columnas, se eliminaron duplicados y se filtraron registros incompletos.
+- **Análisis del embudo de ventas:** Se identificaron eventos clave y la proporción de usuarios que avanzan entre etapas.
+- **Experimentación A/A/B:** Se compararon conversiones entre grupos de control y prueba mediante pruebas de hipótesis estadísticas.
+
+### Conclusiones y recomendaciones
+
+#### Embudo de ventas:
+- El evento OffersScreenAppear es donde más usuarios abandonan (61.9%).
+- Solo el 47.7% de los usuarios completa el embudo de ventas hasta el pago exitoso.
+
+#### Resultados del experimento:
+- No se encontraron diferencias estadísticas significativas entre los grupos de control y el grupo de prueba.
+- Las nuevas fuentes no generan un impacto positivo en la conversión, por lo que no se recomienda implementar este cambio.
+
+#### Recomendaciones:
+- Optimizar la pantalla de ofertas para retener más usuarios en esa etapa.
+- Priorizar otros cambios en el diseño o funcionalidad de la aplicación con mayor potencial de impacto.
+
+### Visualizaciones destacadas
+1. **Embudo de ventas:** La etapa en la que más se pierden usuarios es en el Tutorial, donde solo el 23.7% de los usuarios en la etapa anterior llegan a esta. La siguiente etapa donde se pierden más usuarios es en OfferScreenAppear, donde el 61.9% de los usuarios de la etapa anterior pasan a esta.
+![Sales Funner Chart](/assets/img/p03_sales_funnel_chart.png)
+2. **Periodo de tiempo de los datos:** Los datos completos están disponibles a partir del 1 de agosto de 2019, por lo que se descartaron fechas anteriores. El periodo actualizado abarca del 1 al 7 de agosto de 2019.
+![Time Period Data](/assets/img/p03_time_period_data.png)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/sales-funnel-analysis).**
+
+## Análisis de ventas de videojuegos
 Este proyecto analiza las ventas de videojuegos por región, plataforma y género para identificar patrones clave que permitan a la tienda online Ice **detectar proyectos prometedores** y **planificar campañas publicitarias efectivas**. Al entender las dinámicas de mercado en Norteamérica, Europa y Japón, se busca **optimizar estrategias de marketing** y **maximizar el retorno de inversión en los títulos más prometedores**.
 
 #### Herramientas y tipo de proyecto
@@ -122,51 +224,3 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 ![Sales Box Plot](/assets/img/p02_sales_box_plot.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/video-game-sales-analysis).**
-
-## Análisis de comportamiento de usuarios y embudo de ventas
-Este proyecto analiza el embudo de ventas de la aplicación de una empresa de alimentos para **identificar las etapas con mayores pérdidas de usuarios** y evalúa, mediante un experimento A/A/B, si un nuevo diseño de fuentes puede **mejorar la conversión** en comparación con el diseño actual. El objetivo es proporcionar **insights basados en datos** que guíen **decisiones estratégicas sobre diseño y funcionalidad**.
-
-#### Herramientas y tipo de proyecto
-![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-%23357ebd.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
-![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
-![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
-![Tests A/B](https://img.shields.io/badge/Tests_A/B-295F98?style=for-the-badge)
-![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
-![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
-
-### Preguntas clave
-1. ¿Qué eventos del embudo de ventas tienen mayores tasas de abandono?
-2. ¿Qué porcentaje de usuarios completa el embudo de ventas desde el inicio hasta el pago?
-3. ¿El cambio en el diseño de las fuentes afecta significativamente la conversión?
-4. ¿Hay diferencias estadísticas entre los grupos de control y el grupo de prueba?
-
-### Metodología
-- **Preprocesamiento de datos:** Se ajustaron los nombres de las columnas, se eliminaron duplicados y se filtraron registros incompletos.
-- **Análisis del embudo de ventas:** Se identificaron eventos clave y la proporción de usuarios que avanzan entre etapas.
-- **Experimentación A/A/B:** Se compararon conversiones entre grupos de control y prueba mediante pruebas de hipótesis estadísticas.
-
-### Conclusiones y recomendaciones
-
-#### Embudo de ventas:
-- El evento OffersScreenAppear es donde más usuarios abandonan (61.9%).
-- Solo el 47.7% de los usuarios completa el embudo de ventas hasta el pago exitoso.
-
-#### Resultados del experimento:
-- No se encontraron diferencias estadísticas significativas entre los grupos de control y el grupo de prueba.
-- Las nuevas fuentes no generan un impacto positivo en la conversión, por lo que no se recomienda implementar este cambio.
-
-#### Recomendaciones:
-- Optimizar la pantalla de ofertas para retener más usuarios en esa etapa.
-- Priorizar otros cambios en el diseño o funcionalidad de la aplicación con mayor potencial de impacto.
-
-### Visualizaciones destacadas
-1. **Embudo de ventas:** La etapa en la que más se pierden usuarios es en el Tutorial, donde solo el 23.7% de los usuarios en la etapa anterior llegan a esta. La siguiente etapa donde se pierden más usuarios es en OfferScreenAppear, donde el 61.9% de los usuarios de la etapa anterior pasan a esta.
-![Sales Funner Chart](/assets/img/p03_sales_funnel_chart.png)
-2. **Periodo de tiempo de los datos:** Los datos completos están disponibles a partir del 1 de agosto de 2019, por lo que se descartaron fechas anteriores. El periodo actualizado abarca del 1 al 7 de agosto de 2019.
-![Time Period Data](/assets/img/p03_time_period_data.png)
-
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/sales-funnel-analysis).**
