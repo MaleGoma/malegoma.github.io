@@ -80,7 +80,7 @@ El objetivo de este proyecto es **optimizar los gastos de marketing** de Y.Afish
 ![Limpieza de datos](https://img.shields.io/badge/Limpieza_de_datos-295F98?style=for-the-badge)
 ![Transformación de datos](https://img.shields.io/badge/Transformación_de_datos-295F98?style=for-the-badge)
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
-![Análisis de cohortes](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+![Análisis de cohortes](https://img.shields.io/badge/Análisis_de_cohortes-295F98?style=for-the-badge)
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
 
 ### Preguntas clave
