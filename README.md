@@ -164,7 +164,7 @@ Este proyecto analiza el embudo de ventas de la aplicación de una empresa de al
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/sales-funnel-analysis).**
 
-## Análisis de ventas de videojuegos
+<!--## Análisis de ventas de videojuegos
 Este proyecto analiza las ventas de videojuegos por región, plataforma y género para identificar patrones clave que permitan a la tienda online Ice **detectar proyectos prometedores** y **planificar campañas publicitarias efectivas**. Al entender las dinámicas de mercado en Norteamérica, Europa y Japón, se busca **optimizar estrategias de marketing** y **maximizar el retorno de inversión en los títulos más prometedores**.
 
 #### Herramientas y tipo de proyecto
@@ -217,4 +217,4 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 3. **Ventas por plataforma:** El promedio de las ventas difiere en gran cantidad de la mediana de los datos debido a la dispersión de los datos. Por lo mismo, se considera que una mejor medida de tendencia central será la mediana.
 ![Sales Box Plot](/assets/img/p02_sales_box_plot.png)
 
-**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/video-game-sales-analysis).**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/MaleGoma/video-game-sales-analysis).** -->
